@@ -1,5 +1,4 @@
-#include <stdio.h>
-
+#include <stdio.h> //program to count the number of set bits in a number
 int main() {
     int n, count = 0;
 
